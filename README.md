@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of regexcite is to …
+This is a toy package I made just for practice.
 
 ## Installation
 
